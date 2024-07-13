@@ -1,0 +1,1 @@
+I am learning how use git properly (commands, writing good commits, etc.).
